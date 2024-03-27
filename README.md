@@ -25,7 +25,7 @@ May the Force be with you! 🪐👾
 - Crawling Dungeons and Fighting Dragons 🐉
 - Cooking 🍳
 - Pretending I'm big at the gym 🏋️‍♂️
-
+- Mongolian Throat Singing (I'm serious) 🗿
 
 
 <!--

@@ -11,21 +11,24 @@ May the Force be with you! 🪐👾
 ### What I like:
 - AI 🤖
 - Machine Learning 🧠
+- Game Development 🎮
 - Front-end Development 🌐
 - Anime 🗾
   
 ### My Favourite Languages:
-- ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&labelColor=%23FFFFFF)
-- ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&labelColor=%23FFFFFF)
-- ![Static Badge](https://img.shields.io/badge/%F0%9F%A7%9D-Sindarin-%23228B22?labelColor=%23FFFFFF)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
+- ![Static Badge](https://img.shields.io/badge/%F0%9F%A7%9D-Sindarin-%23228B22?labelColor=%23FFFFFF&style=for-the-badge)
 
 ### My Hobbies:
-- ~~Creating~~ Fixing bugs 🪲
+- ~~Introducing~~ Fixing bugs 🪲
 - 3D Printing 🦾
 - Crawling Dungeons and Fighting Dragons 🐉
 - Cooking 🍳
 - Pretending I'm big at the gym 🏋️‍♂️
 - Mongolian Throat Singing (I'm serious) 🗿
+- Brewing Mead 🐝
 
 
 <!--

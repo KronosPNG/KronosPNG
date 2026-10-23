@@ -2,7 +2,7 @@
 
 This is my profile, mostly filled with hopes, dreams and... oh right, some (hopefully) cool code too!
 
-I'm a Master's Computer Science Student at [*Università degli Studi di Salerno*](https://www.unisa.it/).
+MSc in Computer Science, cum laude - [*Università degli Studi di Salerno*](https://www.unisa.it/).
 
 Feel free to explore my profile! If you want to collab or fork code, hit me up!
 
